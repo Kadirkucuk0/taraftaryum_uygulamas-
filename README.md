@@ -1,2 +1,2 @@
-# taraftaryum_uygulamasi
+# taraftaryum_uygulamasii
 taraftaryum uygulaması
